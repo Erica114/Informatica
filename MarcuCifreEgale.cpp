@@ -1,4 +1,4 @@
-/// Sa o manance Bobita pe persoana care a comentat degeaba si a injurat mortal 3 persoane personificate de 7 ori consecutiv in mai putin de 5 minute. WOW record mondial
+
 
 ///CERINTA: Se citesc n numere naturale nenule. Afisati suma numerelor care au toate cifrele egale.
 
